@@ -35,7 +35,7 @@ plt$show()
 
 #building a seaborn pairplot using pairplot()
 
-sns$pairplot(r_to_py(iris))
+sns$pairplot(r_to_py(iris), hue = 'Species')
 
 #display the plot
 
