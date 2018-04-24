@@ -2,8 +2,10 @@
 How to make seaborn plots in R
 
 Heatmap:
-![pairplot](seaborn_heatmap.png)
+
+![heatmap](seaborn_heatmap.png)
 
 
 Pairplot:
+
 ![pairplot](seaborn_pairplot.png)
