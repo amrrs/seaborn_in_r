@@ -39,6 +39,9 @@ sns$pairplot(r_to_py(iris), hue = 'Species')
 
 #display the plot
 
-plt$show()
+#plt$show()
 
+#save the plot
+
+plt$savefig('seaborn_pairplot.png')
 
